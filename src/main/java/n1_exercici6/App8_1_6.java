@@ -10,7 +10,6 @@ public class App8_1_6 {
 	 * Crea una lista con números y cadenas de texto y ordena la lista con las
 	 *  cadenas de más corta a más larga.
 	 */
-
 	
 	public static void main(String[] args) {
 		
